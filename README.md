@@ -1,6 +1,6 @@
 # Architectus
 
-The project is my first website Architectus project about international architectures and house plans is the informational and non-profit website.
+The project is my first website Architectus project about international architectures and house plans is the informational and non-profit website
 
 ### Tech stack
 <a href="https://helpx.adobe.com/th_th/xd/get-started.html"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /></a>
